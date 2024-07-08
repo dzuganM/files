@@ -1,2 +1,2 @@
-# files
-python
+#files
+file = open ("test,text", "w")
